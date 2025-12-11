@@ -1,6 +1,6 @@
-# Visual Researcher – Automated Web Preview & Screenshot Tool
+# snaplens – Automated Web Preview & Screenshot Tool
 
-Visual Researcher is a lightweight automation tool that:
+snaplens is a lightweight automation tool that:
 
 - takes a user-provided search query  
 - fetches top results from DuckDuckGo  
